@@ -39,4 +39,4 @@ Conozco y manejo las siguientes tecnologías, lenguajes de programación y frame
 
 <strong>Express</strong> </td> <td align="center"></td> </tr> </tbody> </table>
 
-<img src="https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQsVQL7R12r1OI-GARygEKADVg6oXZSusjRc2YI66Bweh7Lsvi8MCZsjjl_T0cNTrdmpnXdUy9SSGyxca_nIfcGFP3C-gRxDXrGWTAlsauBzauSLyw" alt="Imagen de notebook" width="50%" height="40"/>
+<img src="https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQsVQL7R12r1OI-GARygEKADVg6oXZSusjRc2YI66Bweh7Lsvi8MCZsjjl_T0cNTrdmpnXdUy9SSGyxca_nIfcGFP3C-gRxDXrGWTAlsauBzauSLyw" alt="Imagen de notebook" width="100%"/>
