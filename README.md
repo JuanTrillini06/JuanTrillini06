@@ -1,8 +1,8 @@
 👋 ¡Bienvenido/a a mi Perfil!
 --
-Soy un Desarrollador Web con pasión por construir experiencias digitales funcionales y atractivas.
+Soy un *Desarrollador Web* con pasión por construir experiencias digitales funcionales y atractivas.
   
-Actualmente, estoy iniciando mis estudios como Analista de Sistemas para complementar mis habilidades de desarrollo con una comprensión profunda del análisis de requisitos, diseño de sistemas y la arquitectura empresarial.
+Actualmente, estoy iniciando mis estudios como *Analista de Sistemas* para complementar mis habilidades de desarrollo con una comprensión profunda del análisis de requisitos, diseño de sistemas y la arquitectura empresarial.
 
 🛠️ Stack de Tecnologías
 --
