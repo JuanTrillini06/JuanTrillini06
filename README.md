@@ -32,7 +32,11 @@ Conozco y manejo las siguientes tecnologías, lenguajes de programación y frame
 <strong>NextJS</strong> </td> <td align="center"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
 
-<strong>SQL (MySQL, PostgreSQL, etc.)</strong> </td> </tr> <tr> <td align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<strong>SQL (MySQL)</strong> </td> </tr> <tr> <td align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
 
 <strong>JavaScript</strong> </td> <td align="center"></td> <td align="center"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+
+<strong>Express</strong> </td> <td align="center"></td> </tr> </tbody> </table>
+
+<img src="https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQsVQL7R12r1OI-GARygEKADVg6oXZSusjRc2YI66Bweh7Lsvi8MCZsjjl_T0cNTrdmpnXdUy9SSGyxca_nIfcGFP3C-gRxDXrGWTAlsauBzauSLyw" alt="Imagen de notebook" width="50%" height="40"/>
