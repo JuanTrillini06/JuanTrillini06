@@ -43,8 +43,6 @@ Conozco y manejo las siguientes tecnologías, lenguajes de programación y frame
   <strong>Express</strong> </td> <td align="center"></td> </tr> </tbody> </table>
 </div>
 
-<img src="https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQsVQL7R12r1OI-GARygEKADVg6oXZSusjRc2YI66Bweh7Lsvi8MCZsjjl_T0cNTrdmpnXdUy9SSGyxca_nIfcGFP3C-gRxDXrGWTAlsauBzauSLyw" alt="Imagen de notebook" width="100%"/>
-
 📧 Contacto
 --
 Siempre estoy abierto a colaborar en nuevos proyectos y a conectar con otros desarrolladores.
